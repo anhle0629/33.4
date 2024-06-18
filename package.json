@@ -1,0 +1,22 @@
+{
+  "name": "excersie",
+  "version": "1.0.0",
+  "main": "step1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anhle0629/33.4.git"
+  },
+  "author": "Anh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anhle0629/33.4/issues"
+  },
+  "homepage": "https://github.com/anhle0629/33.4#readme",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.2"
+  }
+}
